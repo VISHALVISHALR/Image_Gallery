@@ -217,7 +217,7 @@ Publish the website in the given URL.
 ## OUTPUT
 ![Screenshot 2025-05-15 214311](https://github.com/user-attachments/assets/f4a49a35-2605-4acc-bfe0-69305dc452e1)
 ![Screenshot 2025-05-15 214349](https://github.com/user-attachments/assets/c3c92797-5085-445d-99e4-9102ae923410)
-![Screenshot 2025-05-15 214405](https://github.com/user-attachments/assets/b2782605-9e07-4272-b73a-9da143a6c223)
+![Screenshot 2025-05-15 214405](https://github.com/user-attachments/assets/07361808-66b0-46d6-805b-686958b33330)
 ![Screenshot 2025-05-15 214421](https://github.com/user-attachments/assets/873de9e4-9dfd-440a-adca-368dd8820717)
 
 
